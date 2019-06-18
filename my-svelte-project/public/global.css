@@ -349,6 +349,9 @@ table th {
 }
 
 /* Navbar */
+h1.nav-text {
+  text-align: center;
+}
 .navbar {
   display: flex;
   justify-content: space-between;

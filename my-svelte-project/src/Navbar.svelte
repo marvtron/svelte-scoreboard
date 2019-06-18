@@ -1,3 +1,3 @@
-<div class="navbar bg-primary">
-  <h1>Player Scoreboard</h1>
+<div class="navbar bg-primary center-align">
+  <h1 class="nav-text">Player Scoreboard</h1>
 </div>
